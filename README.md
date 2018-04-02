@@ -1,2 +1,2 @@
 # tools
-Collection of usefull scripts 
+Collection of useful scripts 

@@ -85,7 +85,11 @@ Docker specific scripts
 
 ### testing
 
-Testing specific scripts
+A helper function has been provided for you under `make test`. This will run
+two test suites:
+
+ - `shellcheck` runs on all files with a `.sh` extension
+ - `hadolint` runs on all `Dockerfile` files
 
 ## Contributing
 
